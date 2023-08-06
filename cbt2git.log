@@ -1,0 +1,11 @@
+2023-08-06 08:38:21.709583 - Initialized conversion of CBT948
+2023-08-06 08:38:21.839763 - Received CBT.V505.FILE948.PDS from FILE948.XMI 
+2023-08-06 08:38:21.841825 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE948.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:38:21.843178 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE948.PDS, moved to PDS/$$NOTE01
+2023-08-06 08:38:21.844367 - Found @FILE948.txt (text/plain) in CBT.V505.FILE948.PDS, moved to PDS/@FILE948
+2023-08-06 08:38:21.845456 - Found IFCREADS.rexx (text/plain) in CBT.V505.FILE948.PDS, moved to PDS/IFCREADS
+2023-08-06 08:38:21.845467 - Found PDS2SEQ.bin containing application/octet-stream, moved to PDS/PDS2SEQ
+2023-08-06 08:38:21.847482 - Found S100CSV.rexx (text/plain) in CBT.V505.FILE948.PDS, moved to PDS/S100CSV
+2023-08-06 08:38:21.848408 - Found S101CSV.rexx (text/plain) in CBT.V505.FILE948.PDS, moved to PDS/S101CSV
+2023-08-06 08:38:21.849335 - Found S102CSV.rexx (text/plain) in CBT.V505.FILE948.PDS, moved to PDS/S102CSV
+2023-08-06 08:38:21.850241 - Found S110CSV.rexx (text/plain) in CBT.V505.FILE948.PDS, moved to PDS/S110CSV
